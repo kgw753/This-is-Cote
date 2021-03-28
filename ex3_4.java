@@ -13,7 +13,7 @@ public class ex3_4 {
             N = compare;
             if(N < K){
                 break;
-            }
+            } 
             cnt++;
             N /= K;
         }
